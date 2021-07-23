@@ -11,7 +11,7 @@ for video processing.
 
 Because I no longer do video encoding, 2021 my role in the project
 changed from active to reserve, meaning in case StaxRip becomes
-unmaintained for a longer time, I will maintained it.
+unmaintained for a longer time, I will maintain it.
 
 [https://github.com/staxrip/staxrip](https://github.com/staxrip/staxrip)
 
