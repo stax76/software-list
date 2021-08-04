@@ -58,6 +58,12 @@ driven custom menu items to the Windows File Explorer context menu.
 [https://github.com/stax76/OpenWithPlusPlus](https://github.com/stax76/OpenWithPlusPlus)
 
 
+KeyLauncher
+-----------
+
+KeyLauncher is a keyboard driven launcher application for Windows.
+
+
 pwgen
 -----
 
