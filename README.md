@@ -63,6 +63,7 @@ KeyLauncher
 
 KeyLauncher is a keyboard driven launcher application for Windows.
 
+[https://github.com/stax76/KeyLauncher](https://github.com/stax76/KeyLauncher)
 
 pwgen
 -----
