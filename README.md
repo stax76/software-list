@@ -9,6 +9,10 @@ and controls console apps like x265, NVEnc, mkvmerge, ffmpeg, etc.
 and uses the scripting based frameservers, AviSynth+ and VapourSynth,
 for video processing.
 
+Because I no longer do video encoding, 2021 my role in the project
+changed from active to reserve, meaning in case StaxRip becomes
+unmaintained for a longer time, I will maintain it.
+
 [https://github.com/staxrip/staxrip](https://github.com/staxrip/staxrip)
 
 
@@ -54,6 +58,13 @@ driven custom menu items to the Windows File Explorer context menu.
 [https://github.com/stax76/OpenWithPlusPlus](https://github.com/stax76/OpenWithPlusPlus)
 
 
+KeyLauncher
+-----------
+
+KeyLauncher is a keyboard driven launcher application for Windows.
+
+[https://github.com/stax76/KeyLauncher](https://github.com/stax76/KeyLauncher)
+
 pwgen
 -----
 
@@ -63,9 +74,10 @@ name and main password.
 [https://github.com/stax76/pwgen](https://github.com/stax76/pwgen)
 
 
-Flow.Launcher.Plugin.Favorites
-------------------------------
+run-hidden
+----------
 
-Flow Launcher plugin to define favorite apps, files, folders and URLs.
+run-hidden is a simple command line app that allows to run console apps like powershell with hidden console window.
 
-[https://github.com/stax76/Flow.Launcher.Plugin.Favorites](https://github.com/stax76/Flow.Launcher.Plugin.Favorites)
+[https://github.com/stax76/run-hidden](https://github.com/stax76/run-hidden)
+
