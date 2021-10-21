@@ -61,3 +61,11 @@ A password generator that generates a password based on a given
 name and main password.
 
 [https://github.com/stax76/pwgen](https://github.com/stax76/pwgen)
+
+
+Flow.Launcher.Plugin.Favorites
+------------------------------
+
+Flow Launcher plugin to define favorite apps, files, folders and URLs.
+
+[https://github.com/stax76/Flow.Launcher.Plugin.Favorites](https://github.com/stax76/Flow.Launcher.Plugin.Favorites)
