@@ -81,3 +81,10 @@ run-hidden is a simple command line app that allows to run console apps like pow
 
 [https://github.com/stax76/run-hidden](https://github.com/stax76/run-hidden)
 
+
+Flow.Launcher.Plugin.Favorites
+------------------------------
+
+Flow Launcher plugin to define favorite apps, files, folders and URLs.
+
+[https://github.com/stax76/Flow.Launcher.Plugin.Favorites](https://github.com/stax76/Flow.Launcher.Plugin.Favorites)
