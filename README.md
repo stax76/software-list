@@ -58,12 +58,13 @@ driven custom menu items to the Windows File Explorer context menu.
 [https://github.com/stax76/OpenWithPlusPlus](https://github.com/stax76/OpenWithPlusPlus)
 
 
-KeyLauncher
------------
+Flow.Launcher.Plugin.Favorites
+------------------------------
 
-KeyLauncher is a keyboard driven launcher application for Windows.
+Flow Launcher plugin to define favorite apps, files, folders and URLs.
 
-[https://github.com/stax76/KeyLauncher](https://github.com/stax76/KeyLauncher)
+[https://github.com/stax76/Flow.Launcher.Plugin.Favorites](https://github.com/stax76/Flow.Launcher.Plugin.Favorites)
+
 
 pwgen
 -----
@@ -82,9 +83,9 @@ run-hidden is a simple command line app that allows to run console apps like pow
 [https://github.com/stax76/run-hidden](https://github.com/stax76/run-hidden)
 
 
-Flow.Launcher.Plugin.Favorites
-------------------------------
+File Type Registry Viewer
+-------------------------
 
-Flow Launcher plugin to define favorite apps, files, folders and URLs.
+File Type Registry Viewer shows registry keys related to a defined file type.
 
-[https://github.com/stax76/Flow.Launcher.Plugin.Favorites](https://github.com/stax76/Flow.Launcher.Plugin.Favorites)
+[https://github.com/stax76/File-Type-Registry-Viewer](https://github.com/stax76/File-Type-Registry-Viewer)
