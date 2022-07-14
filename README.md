@@ -1,5 +1,5 @@
 
-# Software I maintain
+# Software I develop and maintain
 
 StaxRip
 -------
@@ -177,24 +177,26 @@ Full playlist:
 
 # YouTube
 
-- Einzelgänger https://www.youtube.com/c/Einzelg%C3%A4nger
-- https://www.youtube.com/c/DailyStoic
-- https://www.youtube.com/c/sadhguru
-- https://www.youtube.com/user/OSHOInternational
-- Nick Keomahavong https://www.youtube.com/channel/UC4s4I_0RxKMgp-HKRVagRnw
-- https://www.youtube.com/c/TomBilyeu
-- https://www.youtube.com/c/BetterThanYesterday
-- https://www.youtube.com/c/MarkMansonAuthor
-- https://www.youtube.com/c/Thomasfrank
-- https://www.youtube.com/c/aliabdaal
-- https://www.youtube.com/c/QuotesYT
-- https://www.youtube.com/user/tagesschau
-- https://www.youtube.com/c/Fireship
-- https://www.youtube.com/c/DrEricBergDC
-- https://www.youtube.com/c/drekberg
-- https://www.youtube.com/c/EnglishwithLucy
-- https://www.youtube.com/c/LeilaGharani
-- https://www.youtube.com/user/Mmovies21
+Some favorites:
+
+- [Einzelgänger](https://www.youtube.com/c/Einzelg%C3%A4nger)
+- [Daily Stoic](https://www.youtube.com/c/DailyStoic)
+- [Sadhguru](https://www.youtube.com/c/sadhguru)
+- [OSHO](https://www.youtube.com/user/OSHOInternational)
+- [Nick Keomahavong](https://www.youtube.com/channel/UC4s4I_0RxKMgp-HKRVagRnw)
+- [Tom Bilyeu](https://www.youtube.com/c/TomBilyeu)
+- [Better Than Yesterday](https://www.youtube.com/c/BetterThanYesterday)
+- [Mark Manson](https://www.youtube.com/c/MarkMansonAuthor)
+- [Thomas Frank](https://www.youtube.com/c/Thomasfrank)
+- [Ali Abdaal](https://www.youtube.com/c/aliabdaal)
+- [Quotes](https://www.youtube.com/c/QuotesYT)
+- [Tagesschau](https://www.youtube.com/user/tagesschau)
+- [Fireship](https://www.youtube.com/c/Fireship)
+- [Dr. Eric Berg](https://www.youtube.com/c/DrEricBergDC)
+- [Dr. Ekberg](https://www.youtube.com/c/drekberg)
+- [English with Lucy](https://www.youtube.com/c/EnglishwithLucy)
+- [Leila Gharani](https://www.youtube.com/c/LeilaGharani)
+- [Mmovies21](https://www.youtube.com/user/Mmovies21)
 
 # Software I use
 
