@@ -101,9 +101,9 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 # Music
 
 Hip Hop from 1988 until 1998, Wu Tang Clan and D.I.T.C. being favorites.
-I gave up Hip Hop around 1998, today I can't listen to it anymore, too much negativity and agression.
+I gave up Hip Hop around 1998, today I can't listen to it anymore, too much negativity and agression. It was very helpful to learn Englisch and to learn about Soul, R&B, Funk and Jazz.
 
-I can still watch Breaking, favorites being Rivers (Physicx, Born, Gonzo, BangRoc, C4),
+I can still watch Breaking, favorites being Rivers Crew (Physicx, Born, Gonzo, BangRoc, C4),
 Wing, Milhouse, Shorty Force, Luigi, Bgirl Male, Bgirl Minzy.
 All time favorite Bboy Physicx.
 
@@ -277,8 +277,8 @@ Some favorites:
 - IMDB
 - JustWatch
 - Shazam
-- MPV Remote (supports Windows)
-- KDE Connect
+- MPV Remote
+- KDE Connect (supports Windows)
 - Kore (Kodi remote)
 - Amazon
 - Banking
