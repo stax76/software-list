@@ -101,7 +101,7 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 # Music
 
 Hip Hop from 1988 until 1998, Wu Tang Clan and D.I.T.C. being favorites.
-I gave Hip Hop up 1998, today I can't listen to it anymore, too much negativity and agression.
+I gave up Hip Hop around 1998, today I can't listen to it anymore, too much negativity and agression.
 
 I can still watch Breaking, favorites being Rivers (Physicx, Born, Gonzo, BangRoc, C4),
 Wing, Milhouse, Shorty Force, Luigi, Bgirl Male, Bgirl Minzy.
