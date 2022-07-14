@@ -127,12 +127,10 @@ Some favorites:
 
 # Software I use
 
-## System
+## OS
 
 - Windows 11
 - Ubuntu Linux 22
-- Macrium Reflect
-- MSIX Hero
 
 ## Programming
 
@@ -180,9 +178,11 @@ Some favorites:
 - 10fastfingers
 - deepl
 
-## Office
+## Misc
 
 - Airtable
+- Macrium Reflect
+- MSIX Hero
 
 ## Mobile
 
