@@ -1,5 +1,5 @@
 
-This page lists projects I've been working on.
+# Software I maintain
 
 StaxRip
 -------
@@ -22,6 +22,14 @@ mpv.net
 mpv.net is a modern media player for Windows based on the popular mpv player.
 
 [https://github.com/stax76/mpv.net](https://github.com/stax76/mpv.net)
+
+
+mpv-scripts
+-----------
+
+Collection of mpv scripts.
+
+[https://github.com/stax76/mpv-scripts](https://github.com/stax76/mpv-scripts)
 
 
 Everything.NET
@@ -89,3 +97,217 @@ File Type Registry Viewer
 File Type Registry Viewer shows registry keys related to a defined file type.
 
 [https://github.com/stax76/File-Type-Registry-Viewer](https://github.com/stax76/File-Type-Registry-Viewer)
+
+# Music
+
+Hip Hop from 1988 until 1998, Wu Tang Clan and D.I.T.C. being favorites.
+I gave Hip Hop up 1998, today I can't listen to it anymore, too much negativity and agression.
+
+I can still watch Breaking, favorites being Rivers (Physicx, Born, Gonzo, BangRoc, C4),
+Wing, Milhouse, Shorty Force, Luigi, Bgirl Male, Bgirl Minzy.
+All time favorite Bboy Physicx.
+
+Music Collection:
+
+- A lot Soul, R&B, Funk, Jazz
+- A lot Electronic
+- Rock, Pop
+- Anything except Metal and Techo which has too much energy, also no Classic with few exceptions like Moonshine Sonata.
+
+Some favorite songs:
+
+- A Himitsu - Cease
+- Billy Cobham - Heather (absolute favorite)
+- Bob James - Nautilus
+- Bonobo - Recurring
+- Camo & Krooked - All Night
+- Curtis Mayfield - Move On Up
+- Curtis Mayfield - Right On For Darkness
+- Dionne Warwick - Walk On By
+- ELOHEL - Photograph
+- Incredible Bongo Band - Apache
+- Isaac Hayes - (If Loving You Is Wrong) I Don't Want to Be Right
+- Isaac Hayes - Do Your Thing
+- Isaac Hayes - Hung Up On My Baby
+- Isaac Hayes - Joy Part 1
+- Isaac Hayes - The Look Of Of Love
+- Isaac Hayes - Walk On By
+- James Brown - It's A Man's Man's Man's World
+- Jane XØ - Hard to Forget
+- Joni Mitchell - Woodstock
+- Koan - Selena's Song
+- Kool & The Gang - Summer Madness
+- Marlena Shaw - California Soul
+- Marvin Gaye - Stop, Look, Listen
+- Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough
+- Mary Jane Girls - All Night Long
+- Matthews' Southern Comfort - Woodstock
+- Meg Myers - Curbstomp
+- Meg Myers - Desire
+- Meg Myers - Desire (Hucci Remix)
+- Meg Myers - Feather
+- Monteur - Dreaming
+- Neutralize - Shining Through The Light ft. Emily Underhill (Cross Them Out Remix)
+- Northend - Happy Days
+- O.V. Wright - Let's Straighten It Out
+- Oliver Sain - On the Hill
+- Phaeleh - Should Be True
+- Queensway - Darlin
+- Ravager - Runaway
+- Rufus & Chaka Khan - Ain't Nobody
+- Shannon - Let The Music Play
+- Stelvio Cipriani - Mary's Theme
+- Steve Miller Band - Fly Like An Eagle
+- Subwave & The Dual Personality - Full Control VIP
+- The Brothers Johnson - Strawberry Letter 23
+- The Chi-Lites - Oh Girl
+- The Isley Brothers - Summer Breeze
+- The Jimmy Castor Bunch - It's Just Begun
+- The Marvelettes - Please Mr. Postman
+- The Marvelettes - When You're Young And In Love
+- The Spinners - Could It Be I'm Falling In Love
+- The Spinners - I'll Be Around
+- Tom Scott - Today
+- We Draw A - Lowbanks
+- William DeVaughn - Be Thankful for What You Got
+
+Full playlist:
+
+[https://www.youtube.com/channel/UCvZIVRqw9aaQgE_3jfrj31Q](https://www.youtube.com/channel/UCvZIVRqw9aaQgE_3jfrj31Q)
+
+# YouTube
+
+- Einzelgänger https://www.youtube.com/c/Einzelg%C3%A4nger
+- https://www.youtube.com/c/DailyStoic
+- https://www.youtube.com/c/sadhguru
+- https://www.youtube.com/user/OSHOInternational
+- Nick Keomahavong https://www.youtube.com/channel/UC4s4I_0RxKMgp-HKRVagRnw
+- https://www.youtube.com/c/TomBilyeu
+- https://www.youtube.com/c/BetterThanYesterday
+- https://www.youtube.com/c/MarkMansonAuthor
+- https://www.youtube.com/c/Thomasfrank
+- https://www.youtube.com/c/aliabdaal
+- https://www.youtube.com/c/QuotesYT
+- https://www.youtube.com/user/tagesschau
+- https://www.youtube.com/c/Fireship
+- https://www.youtube.com/c/DrEricBergDC
+- https://www.youtube.com/c/drekberg
+- https://www.youtube.com/c/EnglishwithLucy
+- https://www.youtube.com/c/LeilaGharani
+- https://www.youtube.com/user/Mmovies21
+
+# Software I use
+
+## System
+
+- Windows 11
+- Ubuntu Linux 22
+- Macrium Reflect
+- MSIX Hero
+
+## Programming
+
+- Visual Studio (C#, VB.NET, C++)
+- Visual Studio Code (PowerShell, Lua, Web, JSON etc.)
+- Sublime Text (plain text, notes)
+- Windows Terminal
+- GitHub Desktop
+- MSYS2
+
+## Productivity
+
+- Flow Launcher, Flow.Launcher.Plugin.Favorites
+- Google Chrome, Calendar, Gmail, Translator, Contacts, Docs, Sheets, Drive, Maps, Photos
+- Notion
+- AutoHotkey
+- BitWarden
+
+## File Management
+
+- Windows File Explorer, Open with++
+- Everything, Everything.NET
+- dnGREP
+- Flow Launcher, Favorites plugin
+- OneDrive, Dropbox
+
+## Media
+
+- YouTube, yt-dlp
+- mpv.net (video, music, images)
+- ffmpeg
+- Kodi
+- JDownloader
+- LosslessCut
+- MakeMKV
+- MKVToolNix
+- OBS Studio
+- paint.net
+- Snipping Tool
+- Strawberry music player
+
+## Learning
+
+- Anki (English vocab)
+- 10fastfingers
+- deepl
+
+## Office
+
+- Airtable
+
+## Mobile
+
+- Chrome, Gmail, Calendar, Photos, Drive, Authenticator, Maps, YouTube
+- Notion
+- Weather (Samsung)
+- Raindrop
+- Pocket
+- Instapaper
+- ReadEra
+- Kindle
+- Onleihe
+- Libby
+- Wikipedia
+- GitHub
+- QuickEdit+
+- Airtable
+- Multi Timer
+- IMDB
+- JustWatch
+- Shazam
+- MPV Remote (supports Windows)
+- KDE Connect
+- Kore (Kodi remote)
+- Amazon
+- Banking
+- Transportation
+- eBay
+- DHL
+- BitWarden
+- PayPal
+- Mobile service provider
+- DropBox
+- OneDrive
+- My Files (Samsung)
+- Chronus
+
+## Chrome Extensions
+
+- Dark Reader
+- Google Translate
+- Depth Translator for DeepL
+- dict-cc
+- Grammar & Spell Checker — LanguageTool
+- Download with JDownloader
+- External Application Launcher
+- I don't care about cookies
+- Raindrop.io
+- Save to Pocket
+- Reader View
+- Wikipedia Search
+- Wikiwand
+- Markdown Viewer
+- Scroll In
+- SuperSorter
+- Smart TOC
+- Always Clear Downloads in Chrome
