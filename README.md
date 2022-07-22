@@ -100,32 +100,9 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 
 # Music
 
-[Long playlists on YouTube](https://www.youtube.com/channel/UCvZIVRqw9aaQgE_3jfrj31Q)
+[playlists on YouTube](https://www.youtube.com/channel/UCvZIVRqw9aaQgE_3jfrj31Q)
 
-# YouTube
-
-Some favorites:
-
-- [Einzelgänger](https://www.youtube.com/c/Einzelg%C3%A4nger)
-- [Daily Stoic](https://www.youtube.com/c/DailyStoic)
-- [Sadhguru](https://www.youtube.com/c/sadhguru)
-- [OSHO](https://www.youtube.com/user/OSHOInternational)
-- [Nick Keomahavong](https://www.youtube.com/channel/UC4s4I_0RxKMgp-HKRVagRnw)
-- [Tom Bilyeu](https://www.youtube.com/c/TomBilyeu)
-- [Better Than Yesterday](https://www.youtube.com/c/BetterThanYesterday)
-- [Mark Manson](https://www.youtube.com/c/MarkMansonAuthor)
-- [Thomas Frank](https://www.youtube.com/c/Thomasfrank)
-- [Ali Abdaal](https://www.youtube.com/c/aliabdaal)
-- [Quotes](https://www.youtube.com/c/QuotesYT)
-- [Tagesschau](https://www.youtube.com/user/tagesschau)
-- [Fireship](https://www.youtube.com/c/Fireship)
-- [Dr. Eric Berg](https://www.youtube.com/c/DrEricBergDC)
-- [Dr. Ekberg](https://www.youtube.com/c/drekberg)
-- [English with Lucy](https://www.youtube.com/c/EnglishwithLucy)
-- [Leila Gharani](https://www.youtube.com/c/LeilaGharani)
-- [Mmovies21](https://www.youtube.com/user/Mmovies21)
-
-# Software I use
+# Software Setup
 
 ## OS
 
@@ -160,7 +137,7 @@ Some favorites:
 ## Media
 
 - YouTube, yt-dlp
-- mpv.net (video, music, images)
+- mpv.net
 - ffmpeg
 - Kodi
 - JDownloader
@@ -174,7 +151,7 @@ Some favorites:
 
 ## Learning
 
-- Anki (English vocab)
+- Anki
 - 10fastfingers
 - deepl
 
@@ -205,8 +182,8 @@ Some favorites:
 - JustWatch
 - Shazam
 - MPV Remote
-- KDE Connect (supports Windows)
-- Kore (Kodi remote)
+- KDE Connect
+- Kore
 - Amazon
 - Banking
 - Transportation
