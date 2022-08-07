@@ -110,7 +110,7 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 
 # Music
 
-[playlists on YouTube](https://www.youtube.com/channel/UCvZIVRqw9aaQgE_3jfrj31Q)
+[YouTube playlist](https://www.youtube.com/channel/UCvZIVRqw9aaQgE_3jfrj31Q)
 
 # Software Setup
 
@@ -131,7 +131,7 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 ## Productivity
 
 - Flow Launcher, Flow.Launcher.Plugin.Favorites
-- Google Chrome, Calendar, Gmail, Translator, Contacts, Docs, Sheets, Drive, Maps, Photos
+- Google Chrome, Calendar, Gmail, Contacts, Docs, Sheets, Drive, Maps, Photos
 - Notion
 - AutoHotkey
 - BitWarden
@@ -142,11 +142,13 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 - Everything, Everything.NET
 - dnGREP
 - Flow Launcher, Favorites plugin
-- OneDrive, Dropbox
+- OneDrive
+- Dropbox
 
 ## Media
 
-- YouTube, yt-dlp
+- YouTube
+- yt-dlp
 - mpv.net
 - ffmpeg
 - Kodi
@@ -163,7 +165,9 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 
 - Anki
 - 10fastfingers
+- Google Translator
 - deepl
+- dict.cc
 
 ## Misc
 
