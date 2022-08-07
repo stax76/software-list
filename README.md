@@ -91,6 +91,16 @@ run-hidden is a simple command line app that allows to run console apps like pow
 [https://github.com/stax76/run-hidden](https://github.com/stax76/run-hidden)
 
 
+show-args
+---------
+
+Windows app that shows a message box with the received command line arguments.
+
+It can be useful to debug complex command lines.
+
+[https://github.com/stax76/show-args](https://github.com/stax76/show-args)
+
+
 File Type Registry Viewer
 -------------------------
 
