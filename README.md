@@ -104,10 +104,6 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 
 [https://github.com/stax76/File-Type-Registry-Viewer](https://github.com/stax76/File-Type-Registry-Viewer)
 
-# Music
-
-[YouTube playlist](https://www.youtube.com/channel/UCvZIVRqw9aaQgE_3jfrj31Q)
-
 # Software Setup
 
 ## Development
@@ -242,3 +238,7 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 - [Dropbox](https://www.dropbox.com) - 🚀 Cross-Platform cloud storage
 - [CopyQ Clipboard manager](https://github.com/hluk/CopyQ) - Feature rich clipboard manager
 - [Gimp](https://www.gimp.org) - Image editing
+
+# Music
+
+[YouTube playlist](https://www.youtube.com/channel/UCvZIVRqw9aaQgE_3jfrj31Q)
