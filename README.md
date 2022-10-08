@@ -225,6 +225,7 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 - [SuperSorter](https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij?hl=en) - Bookmark sorter
 - [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba?hl=en) - Generates a TOC (Table Of Contents) for websites
 - [Always Clear Downloads in Chrome](https://chrome.google.com/webstore/detail/always-clear-downloads-in/efoelbbfbknfhpmgclpcdbkoieedkkai?hl=en)
+- [AutoControl](https://www.autocontrol.app) - 🚀 Keyboard shortcuts that work on all tabs, Windows only
 
 ## Linux
 
