@@ -116,6 +116,7 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 - [MSYS2](https://www.msys2.org) - 🚀 Linux toolchain on Windows
 - [WSL](https://www.wikiwand.com/en/Windows_Subsystem_for_Linux) - 🚀 Runs Linux nativly on Windows
 - [MSIX Hero](https://msixhero.net) - Store app management
+- [regex101](https://regex101.com) - 🚀 Regex testing
 
 ## Productivity
 
