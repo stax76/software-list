@@ -151,7 +151,6 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 🚀 Command line YouTube downloader
 - [ffmpeg](https://ffmpeg.org) - 🚀 Command line media converter
 - [Kodi](https://kodi.tv) - 🚀 Cross-Platform media center
-- [JDownloader](https://jdownloader.org) - Download tool
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Media file cutter
 - [MakeMKV](https://www.makemkv.com) - 🚀 DVD/Blu-ray ripper
 - [MKVToolNix](https://mkvtoolnix.download) - 🚀 Matroska toolbox
@@ -172,6 +171,8 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 
 - [Airtable](https://airtable.com) - Spreadsheet/Database
 - [Macrium Reflect](https://www.macrium.com/reflectfree) - Windows image backup and cloning
+- [JDownloader](https://jdownloader.org) - Download tool
+- [pyload](https://pyload.net) - Download tool
 
 ## Mobile (Android)
 
