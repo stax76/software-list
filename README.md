@@ -28,6 +28,14 @@ Collection of mpv scripts.
 [https://github.com/stax76/mpv-scripts](https://github.com/stax76/mpv-scripts)
 
 
+awesome-mpv
+-----------
+
+A curated list of awesome mpv resources.
+
+[https://github.com/stax76/awesome-mpv](https://github.com/stax76/awesome-mpv)
+
+
 Everything.NET
 --------------
 
