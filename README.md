@@ -1,5 +1,5 @@
 
-# Software Projects
+List of software I maintain or use.
 
 StaxRip
 -------
@@ -114,26 +114,24 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 
 # Software Setup
 
-## Development
+## System
 
-- [Visual Studio](https://visualstudio.microsoft.com) - Development Environment for Windows
-- [Visual Studio Code](https://code.visualstudio.com) - 🚀 Cross-Platform code/text editor
-- [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701) - 🚀 Modern Terminal Emulator
-- [PowerShell](https://microsoft.com/powershell) - 🚀 Powerful shell
-- [GitHub Desktop](https://desktop.github.com) - Official GUI for GIT
-- [MSYS2](https://www.msys2.org) - 🚀 Linux toolchain on Windows
-- [WSL](https://www.wikiwand.com/en/Windows_Subsystem_for_Linux) - 🚀 Runs Linux nativly on Windows
-- [MSIX Hero](https://msixhero.net) - Store app management
-- [regex101](https://regex101.com) - 🚀 Regex testing
+- Windows 11
+- Ubuntu 22
+- [Google Chrome](https://www.google.com/chrome)
 
 ## Productivity
 
-- [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 🚀 Keyboard driven start menu alternative
+- [Albert Launcher](https://albertlauncher.github.io) - 🚀 Keyboard driven launcher for Linux
+- [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 🚀 Keyboard driven launcher for Windows
 - [Flow Launcher Favorites Plugin](https://github.com/stax76/Flow.Launcher.Plugin.Favorites) - Custom defined apps and command lines
 - [Notion](https://www.notion.so) - 🚀 Note taking app 
 - [BitWarden](https://bitwarden.com) - 🚀 Password manager
+- [CopyQ Clipboard manager](https://github.com/hluk/CopyQ) - Feature rich clipboard manager for Linux
 - [AutoHotkey](https://www.autohotkey.com) - 🚀 Keybord shortcuts
-- [Google Chrome](https://www.google.com/chrome)
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - Implementation of KDE Connect for GNOME Shell
+- [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer
+- [fzf](https://github.com/junegunn/fzf) - Cross-platform terminal search tool
 - [Google Calendar](https://calendar.google.com)
 - [Google Gmail](https://mail.google.com/mail)
 - [Google Contacts](https://contacts.google.com)
@@ -145,19 +143,23 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 
 ## File Management
 
-- [Windows File Explorer](https://www.wikiwand.com/en/File_Explorer)
+- [Nautilus/Files](https://wiki.gnome.org/Apps/Files) - Linux Gnome based file manager
+- [Windows File Explorer](https://www.wikiwand.com/en/File_Explorer) - Windows file manager
 - [Open with++](https://github.com/stax76/OpenWithPlusPlus) - Command line tool to customize the context menu
 - [Everything.NET](https://github.com/stax76/Everything.NET) - Dark mode Everything frontend
+- [mate-search-tool](https://manpages.ubuntu.com/manpages/jammy/man1/mate-search-tool.1.html) - Linux GUI search tool
 - [dnGREP](https://dngrep.github.io) - 🚀 File search
 - [Dropbox](https://www.dropbox.com) - 🚀 Cross-Platform cloud storage
+- [f2](https://github.com/ayoisaiah/f2) - Cross-platform command-line tool for batch renaming files
 
 ## Media
 
-- [StaxRip](https://github.com/staxrip/staxrip) - Powerful video converter
+- [StaxRip](https://github.com/staxrip/staxrip) - Powerful video converter for Windows
 - [mpv](https://mpv.io) - 🚀 Extreme powerful cross-Platform command line desktop media player
 - [mpv.net](https://github.com/mpv-net) - Windows GUI for the mpv command line media player
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 🚀 Command line YouTube downloader
 - [ffmpeg](https://ffmpeg.org) - 🚀 Command line media converter
+- [mediainfo](https://mediaarea.net/en/MediaInfo) - Media info CLI tool
 - [Kodi](https://kodi.tv) - 🚀 Cross-Platform media center
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Media file cutter
 - [MakeMKV](https://www.makemkv.com) - 🚀 DVD/Blu-ray ripper
@@ -166,6 +168,7 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 - [paint.net](https://www.getpaint.net) - Image editing
 - [Snipping Tool](https://en.wikipedia.org/wiki/Snipping_Tool) - Screenshots
 - [Tag Editor](https://github.com/Martchus/tageditor) - 🚀 Cross-Platform audio file/song tagging, GUI and CLI
+- [Gimp](https://www.gimp.org) - Image editing
 
 ## Learning
 
@@ -233,22 +236,42 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 - [Always Clear Downloads in Chrome](https://chrome.google.com/webstore/detail/always-clear-downloads-in/efoelbbfbknfhpmgclpcdbkoieedkkai?hl=en)
 - [AutoControl](https://www.autocontrol.app) - 🚀 Keyboard shortcuts that work on all tabs, Windows only
 
-## Linux
+## Development
 
-- [Gnome Desktop Environment](https://www.gnome.org) - 🚀 Beautiful designed desktop environment
+- [Visual Studio](https://visualstudio.microsoft.com) - Development Environment for Windows
 - [Visual Studio Code](https://code.visualstudio.com) - 🚀 Cross-Platform code/text editor
+- [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701) - 🚀 Modern Terminal Emulator
 - [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal) - Terminal Emulator
+- [Nushell](https://www.nushell.sh) - 🚀 Amazing new shell
 - [PowerShell](https://microsoft.com/powershell) - 🚀 Powerful shell
-- [Nushell](https://www.nushell.sh) - 🚀 Upcoming shell
 - [Bash](https://www.wikiwand.com/en/Bash_(Unix_shell)) - Classic shell
-- [Albert Launcher](https://albertlauncher.github.io) - 🚀 Keyboard driven start menu alternative
-- [Nautilus/Files](https://wiki.gnome.org/Apps/Files) - File management
-- [mpv](https://mpv.io) - 🚀 Extreme powerful cross-Platform command line desktop media player
-- [Tag Editor](https://github.com/Martchus/tageditor) - 🚀 Cross-Platform audio file/song tagging, GUI and CLI
-- [Dropbox](https://www.dropbox.com) - 🚀 Cross-Platform cloud storage
-- [CopyQ Clipboard manager](https://github.com/hluk/CopyQ) - Feature rich clipboard manager
-- [Gimp](https://www.gimp.org) - Image editing
+- [cht.sh](https://cht.sh/) - Command line cheat sheet
+- [GitHub Desktop](https://desktop.github.com) - Official GUI for GIT
+- [MSYS2](https://www.msys2.org) - 🚀 Linux toolchain on Windows
+- [WSL](https://www.wikiwand.com/en/Windows_Subsystem_for_Linux) - 🚀 Runs Linux nativly on Windows
+- [MSIX Hero](https://msixhero.net) - Store app management
+- [regex101](https://regex101.com) - 🚀 Regex testing
 
-# Music
+## Visual Studio Code Extensions
 
-[YouTube playlist](https://www.youtube.com/channel/UCvZIVRqw9aaQgE_3jfrj31Q)
+- Better C++ Syntax
+- Bookmarks
+- C/C++
+- C/C++ Extension Pack
+- C/C++ Themes
+- C#
+- CMake
+- CMake Language Support
+- CMake Tools
+- Go
+- Lua
+- Lua Debug
+- macro-commander
+- Palenight Theme
+- PowerShell
+- Pylance
+- Python
+- rust-analyzer
+- vscode-nushell-lang
+- XML Tools
+- Live Server
