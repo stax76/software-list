@@ -36,6 +36,14 @@ A curated list of awesome mpv resources.
 [https://github.com/stax76/awesome-mpv](https://github.com/stax76/awesome-mpv)
 
 
+mpv-hero
+--------
+
+mpv extended with GUI scripts and GUI tools.
+
+[https://github.com/stax76/mpv-hero](https://github.com/stax76/mpv-hero)
+
+
 Everything.NET
 --------------
 
