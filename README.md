@@ -17,7 +17,7 @@ mpv
 Sophisticated media player designed for power users, together with mpv.net
 it is the by far the best media player due to it's great design and feature
 richness. It has a very steep learning curve, using it can be great fun for
-power users. It has also a creat community that help beginners.
+power users. It has also a creat community that can help beginners.
 
 [https://mpv.io](https://mpv.io)
 
@@ -25,14 +25,14 @@ power users. It has also a creat community that help beginners.
 mpv.net
 -------
 mpv.net is a modern media player for Windows based on the popular mpv player.
-It has a modern GUI.
+Unlike most other media players, it has a modern GUI.
 
 [https://github.com/stax76/mpv.net](https://github.com/stax76/mpv.net)
 
 
 mpv-scripts
 -----------
-Collection of mpv scripts.
+Collection of my mpv user scripts.
 
 [https://github.com/stax76/mpv-scripts](https://github.com/stax76/mpv-scripts)
 
@@ -46,7 +46,7 @@ A curated list of awesome mpv resources.
 
 mpv-hero
 --------
-mpv extended with GUI scripts and GUI tools.
+mpv extended with GUI scripts and GUI tools. Unmaintained but works.
 
 [https://github.com/stax76/mpv-hero](https://github.com/stax76/mpv-hero)
 
@@ -55,20 +55,21 @@ Everything.NET
 --------------
 [Voidtools Everything](https://www.voidtools.com) is the most popular and powerful
 file search app on Windows. Everything.NET is a frontend for Voidtools Everything.
+Unmaintained but works.
 
 [https://github.com/stax76/Everything.NET](https://github.com/stax76/Everything.NET)
 
 
 MediaInfo.NET
 -------------
-MediaInfo.NET is a Windows app that shows media file information.
+MediaInfo.NET is a Windows app that shows media file information. Unmaintained but works.
 
 [https://github.com/stax76/MediaInfo.NET](https://github.com/stax76/MediaInfo.NET)
 
 
 Get-MediaInfo
 -------------
-Get-MediaInfo is media info module (advanced function) for PowerShell.
+Get-MediaInfo is media info module (advanced function) for PowerShell. Unmaintained but works.
 
 [https://github.com/stax76/Get-MediaInfo](https://github.com/stax76/Get-MediaInfo)
 
@@ -77,6 +78,7 @@ Open with++
 -----------
 Open with++ is a shell extension that allows to add command line
 driven custom menu items to the Windows File Explorer context menu.
+Unmaintained but works. Unmaintained but works.
 
 [https://github.com/stax76/OpenWithPlusPlus](https://github.com/stax76/OpenWithPlusPlus)
 
@@ -84,6 +86,7 @@ driven custom menu items to the Windows File Explorer context menu.
 Flow Launcher Favorites Plugin
 ------------------------------
 Flow Launcher plugin to define favorite apps, files, folders and URLs.
+Unmaintained but works.
 
 [https://github.com/stax76/Flow.Launcher.Plugin.Favorites](https://github.com/stax76/Flow.Launcher.Plugin.Favorites)
 
@@ -91,14 +94,14 @@ Flow Launcher plugin to define favorite apps, files, folders and URLs.
 pwgen
 -----
 A password generator that generates a password based on a given
-name and main password.
+name and main password. Unmaintained but works.
 
 [https://github.com/stax76/pwgen](https://github.com/stax76/pwgen)
 
 
 run-hidden
 ----------
-run-hidden is a simple command line app that allows to run console apps like powershell with hidden console window.
+run-hidden is a simple command line app that allows to run console apps like powershell with hidden console window. Unmaintained but works.
 
 [https://github.com/stax76/run-hidden](https://github.com/stax76/run-hidden)
 
