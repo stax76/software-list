@@ -1,5 +1,5 @@
 
-List of software I maintain or use or are involed with.
+List of projecs I maintain or use or are involved with.
 
 StaxRip
 -------
@@ -28,6 +28,27 @@ mpv.net is a modern media player for Windows based on the popular mpv player.
 Unlike most other media players, it has a modern GUI.
 
 [https://github.com/stax76/mpv.net](https://github.com/stax76/mpv.net)
+
+
+Music collection
+----------------
+
+My music collection is one of my most important projects, I'm listening every day to
+my music and use a large amount of time to find new music. I started
+collecting music in the late eighties, the first ten your golden age Hip Hop,
+after that I listened to every kind of music, except high energy like Metal and Techno.
+You can download my 1000 songs with:
+
+```
+yt-dlp --ignore-errors --no-mtime --extract-audio --output='./%(title)s.%(ext)s' 'https://www.youtube.com/playlist?list=PLnVfFuh_eWkEaqkErUl2bROUlkqxCP3il'
+```
+
+I have many different playlists for different genres, they can be found here:  
+
+https://www.youtube.com/@stax76/playlists
+
+Just be sure to buy a license for the music after you find something you like.
+I use Amazon for that, though there are probably better shops for buying music.
 
 
 mpv-scripts
