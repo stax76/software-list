@@ -1,5 +1,5 @@
 
-List of software I maintain or use.
+List of software I maintain or use or are involed with.
 
 StaxRip
 -------
