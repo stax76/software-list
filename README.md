@@ -3,26 +3,35 @@ List of software I maintain or use.
 
 StaxRip
 -------
-
 StaxRip is a versatile video encoding GUI for Windows. It executes
 and controls console apps like x265, NVEnc, mkvmerge, ffmpeg, etc.
 and uses the scripting based frameservers, AviSynth+ and VapourSynth,
-for video processing.
+for video processing. I left this project because I didn't use it any
+longer, it is now maintained by my friend Dendraspis.
 
 [https://github.com/staxrip/staxrip](https://github.com/staxrip/staxrip)
 
 
+mpv
+---
+Sophisticated media player designed for power users, together with mpv.net
+it is the by far the best media player due to it's great design and feature
+richness. It has a very steep learning curve, using it can be great fun for
+power users. It has also a creat community that help beginners.
+
+[https://mpv.io](https://mpv.io)
+
+
 mpv.net
 -------
-
 mpv.net is a modern media player for Windows based on the popular mpv player.
+It has a modern GUI.
 
 [https://github.com/stax76/mpv.net](https://github.com/stax76/mpv.net)
 
 
 mpv-scripts
 -----------
-
 Collection of mpv scripts.
 
 [https://github.com/stax76/mpv-scripts](https://github.com/stax76/mpv-scripts)
@@ -30,7 +39,6 @@ Collection of mpv scripts.
 
 awesome-mpv
 -----------
-
 A curated list of awesome mpv resources.
 
 [https://github.com/stax76/awesome-mpv](https://github.com/stax76/awesome-mpv)
@@ -38,7 +46,6 @@ A curated list of awesome mpv resources.
 
 mpv-hero
 --------
-
 mpv extended with GUI scripts and GUI tools.
 
 [https://github.com/stax76/mpv-hero](https://github.com/stax76/mpv-hero)
@@ -46,7 +53,6 @@ mpv extended with GUI scripts and GUI tools.
 
 Everything.NET
 --------------
-
 [Voidtools Everything](https://www.voidtools.com) is the most popular and powerful
 file search app on Windows. Everything.NET is a frontend for Voidtools Everything.
 
@@ -55,7 +61,6 @@ file search app on Windows. Everything.NET is a frontend for Voidtools Everythin
 
 MediaInfo.NET
 -------------
-
 MediaInfo.NET is a Windows app that shows media file information.
 
 [https://github.com/stax76/MediaInfo.NET](https://github.com/stax76/MediaInfo.NET)
@@ -63,7 +68,6 @@ MediaInfo.NET is a Windows app that shows media file information.
 
 Get-MediaInfo
 -------------
-
 Get-MediaInfo is media info module (advanced function) for PowerShell.
 
 [https://github.com/stax76/Get-MediaInfo](https://github.com/stax76/Get-MediaInfo)
@@ -71,7 +75,6 @@ Get-MediaInfo is media info module (advanced function) for PowerShell.
 
 Open with++
 -----------
-
 Open with++ is a shell extension that allows to add command line
 driven custom menu items to the Windows File Explorer context menu.
 
@@ -80,7 +83,6 @@ driven custom menu items to the Windows File Explorer context menu.
 
 Flow Launcher Favorites Plugin
 ------------------------------
-
 Flow Launcher plugin to define favorite apps, files, folders and URLs.
 
 [https://github.com/stax76/Flow.Launcher.Plugin.Favorites](https://github.com/stax76/Flow.Launcher.Plugin.Favorites)
@@ -88,7 +90,6 @@ Flow Launcher plugin to define favorite apps, files, folders and URLs.
 
 pwgen
 -----
-
 A password generator that generates a password based on a given
 name and main password.
 
@@ -97,7 +98,6 @@ name and main password.
 
 run-hidden
 ----------
-
 run-hidden is a simple command line app that allows to run console apps like powershell with hidden console window.
 
 [https://github.com/stax76/run-hidden](https://github.com/stax76/run-hidden)
@@ -105,7 +105,6 @@ run-hidden is a simple command line app that allows to run console apps like pow
 
 show-args
 ---------
-
 Windows app that shows a message box with the received command line arguments.
 
 It can be useful to debug complex command lines.
@@ -115,7 +114,6 @@ It can be useful to debug complex command lines.
 
 File Type Registry Viewer
 -------------------------
-
 File Type Registry Viewer shows registry keys related to a defined file type.
 
 [https://github.com/stax76/File-Type-Registry-Viewer](https://github.com/stax76/File-Type-Registry-Viewer)
@@ -125,7 +123,7 @@ File Type Registry Viewer shows registry keys related to a defined file type.
 ## System
 
 - Windows 11
-- Ubuntu 22
+- Ubuntu 24
 - [Google Chrome](https://www.google.com/chrome)
 
 ## Productivity
