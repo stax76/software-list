@@ -136,7 +136,7 @@ yt-dlp --ignore-errors --no-mtime --extract-audio --output='./%(title)s.%(ext)s'
 
 I have many different playlists for different genres and artists, they can be found here:  
 
-https://www.youtube.com/@stax76/playlists
+[https://www.youtube.com/@stax76/playlists](https://www.youtube.com/@stax76/playlists)
 
 Just be sure to buy a license for the music after you find something you like.
 I use Amazon for that, though there are probably better shops for buying music.
